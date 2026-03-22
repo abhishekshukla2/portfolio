@@ -1,2 +1,1 @@
-
-![Uploading image.png…](https://github.com/abhishekshukla2/portfolio/blob/main/Screenshot.png?raw=true)
+![My Profile](https://raw.githubusercontent.com/abhishekshukla2/portfolio/main/images/profile.png)
